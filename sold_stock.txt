@@ -1,0 +1,1 @@
+{"Bread": 509, "Sugar": 2, "Apple": 10, "Milk": 1360, "Egg": 30, "Onion": 20, "Cereal & Pulses": 2, "Almond": 11, "Walnuts": 3, "Cashew": 4, "Peanut": 5, "Cabbage": 3}
